@@ -288,5 +288,3 @@ Interceptor（拦截器）：对当前状态改变前、后进行监听拦截。
     stateMachine.start(params);
 
 ```
-
-注：版权所有转载请注明出处[https://my.oschina.net/ij5IYLKW/blog/2995585](https://my.oschina.net/ij5IYLKW/blog/2995585)，作者：Ambitor
